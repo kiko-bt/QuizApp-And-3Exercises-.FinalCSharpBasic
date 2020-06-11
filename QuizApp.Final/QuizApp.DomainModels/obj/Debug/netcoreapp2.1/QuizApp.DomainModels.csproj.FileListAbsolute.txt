@@ -1,0 +1,9 @@
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.deps.json
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.dll
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\bin\Debug\netcoreapp2.1\QuizApp.DomainModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.dll
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.DomainModels\obj\Debug\netcoreapp2.1\QuizApp.DomainModels.csprojAssemblyReference.cache

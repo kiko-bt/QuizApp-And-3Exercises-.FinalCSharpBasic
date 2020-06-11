@@ -1,0 +1,12 @@
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.deps.json
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.DomainModels.dll
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\bin\Debug\netcoreapp3.1\QuizApp.DomainModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\QuizApp.Final\QuizApp.Services\obj\Debug\netcoreapp3.1\QuizApp.Services.pdb

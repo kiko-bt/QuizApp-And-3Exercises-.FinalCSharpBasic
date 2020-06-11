@@ -1,0 +1,13 @@
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.exe
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.deps.json
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.dll
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\bin\Debug\netcoreapp3.1\Exercises 03.June.pdb
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.dll
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.pdb
+D:\PRACTICE MAKE PERFECT\C#\Exercises 03.June\Exercises 03.June\obj\Debug\netcoreapp3.1\Exercises 03.June.genruntimeconfig.cache
